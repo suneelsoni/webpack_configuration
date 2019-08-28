@@ -1,0 +1,11 @@
+body {
+  background: lighten
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(gray, 0.2);
+  height: 100vh
+}
